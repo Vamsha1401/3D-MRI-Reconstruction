@@ -9,6 +9,7 @@ The 3D-MRI-Reconstruction project aims to reconstruct and analyze 3D MRI images 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Results](#results)
 
 ## Installation
 
@@ -49,3 +50,39 @@ python your_script_name.py
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-Image**: For image processing tasks.
 - **Nilearn & Nibabel**: For handling neuroimaging data.
+
+
+## Results
+![image](https://github.com/user-attachments/assets/86bb0fde-d3a1-47c3-afb3-563ecf134419)
+![image](https://github.com/user-attachments/assets/5efe2a41-dc01-4a23-bc73-a48eaaeecc85)
+![image](https://github.com/user-attachments/assets/f4ff09a7-e03c-469b-8da3-be74b93f1e2a)
+![image](https://github.com/user-attachments/assets/575745b4-cc6f-49a5-bef8-cd2eb5ae039c)
+![image](https://github.com/user-attachments/assets/b533220a-1020-4ae8-bd9c-a758e39282ff)
+![image](https://github.com/user-attachments/assets/a4bfed67-b3e1-42d0-9e32-ad32d1a05b33)
+![image](https://github.com/user-attachments/assets/7674ef8b-7c47-4a6a-adaa-7647887e7166)
+
+**Predicted outputs of different regions of tumor**
+
+![image](https://github.com/user-attachments/assets/d73ef654-45aa-4580-898e-d8a4bf345014)
+
+**Comparison between Training and Validation Accuracy**
+
+![image](https://github.com/user-attachments/assets/3763e0f2-c341-4430-ab70-5314b35bd5c9)
+
+**Ground Truth and Predicted Class of Tumor**
+
+![image](https://github.com/user-attachments/assets/a2156edd-d65c-433c-aeb7-51f23f49acc5)
+
+**3D Reconstructed Tumor of Predicted**
+
+![image](https://github.com/user-attachments/assets/87fe47de-dd0c-45d0-9b65-dc170d35502e)
+
+**Visualization of 3D Reconstructed Tumor in MeshLab**
+
+
+
+
+
+
+
+
