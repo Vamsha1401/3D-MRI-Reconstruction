@@ -8,7 +8,6 @@ The 3D-MRI-Reconstruction project aims to reconstruct and analyze 3D MRI images 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Customization](#customization)
 - [Technologies Used](#technologies-used)
 
 ## Installation
